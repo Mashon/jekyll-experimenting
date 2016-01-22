@@ -1,25 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Beginning of Code Journal!"
 date:   2016-01-21 23:24:34 -0500
-categories: jekyll update
+categories: miscellaneous
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello and welcome to Code Journal. I decided to start this site as a way to track my experiments in code. It likely wont be pretty for awhile but I thought the best way to continue learning and push myself was to document my daily coding. The goal of this site is to document what I'm building.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Earlier today I pair programmed with a few friends using Screenhero. They had set up a basic blog site using Jekyll and we did a bit of tweaking. I really like the little bit of Jekyll I saw so decided to come home and play around with it. Jekyll can be used for static sites and defaults to a blog set up so a blog was a natural option. I don't plan to spend a lot of time beautifying this site yet wanted to make something that mattered, hence the code journal.

@@ -12,6 +12,5 @@ categories: miscellaneous
 
 <ul>
   <li class="notes">Changing .yml file requries bouncing the server</li>
-  <li class="notes"></li>
-  <li class="notes"></li>
+  <li class="notes">Github & Twitter icons come standard in the config.yml file but you can add others like LinkedIn with <a href="https://blog.r3bl.me/en/simple-social-media-links-jekyll/"> Font Awesome</a>.</li>
 </ul>
